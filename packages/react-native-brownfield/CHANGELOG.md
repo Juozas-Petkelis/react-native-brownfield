@@ -1,5 +1,13 @@
 # @callstack/react-native-brownfield
 
+## 5.1.1
+
+### Patch Changes
+
+- [#458](https://github.com/callstack/react-native-brownfield/pull/458) [`bf976fd`](https://github.com/callstack/react-native-brownfield/commit/bf976fdebc1abb228c03213c9a1b41d9967d0909) Thanks [@KisaneNeko](https://github.com/KisaneNeko)! - Bump the Brownfield Gradle Plugin version injected by the Expo config plugin to `2.0.0-alpha09`.
+- Updated dependencies []:
+  - @callstack/brownfield-cli@5.1.1
+
 ## 5.1.0
 
 ### Minor Changes
